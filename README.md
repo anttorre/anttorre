@@ -57,20 +57,20 @@ little bash. You will learn a lot about processes and file descriptors.</p>
     <p><b>LANGUAGE: C++</b></p>
     <li><a href="https://github.com/anttorre/CPP">CPP MODULES</li></a>
     <p>This repository includes all the exercises from C++ modules 0-9.</p>
-      <p>-<a href="https://github.com/anttorre/CPP/CPP-00">CPP-00</a>: Namespaces, classes, member functions, stdio streams,
+      <p>-<a href="[https://github.com/anttorre/CPP/CPP-00](https://github.com/anttorre/CPP/tree/main/CPP-00)">CPP-00</a>: Namespaces, classes, member functions, stdio streams,
 initialization lists, static, const, and some other basic
 stuff. </p>
-      <p>-<a href="https://github.com/anttorre/CPP/CPP-01">CPP-01</a>: Memory allocation, pointers to members,
+      <p>-<a href="[https://github.com/anttorre/CPP/CPP-01](https://github.com/anttorre/CPP/tree/main/CPP-01)">CPP-01</a>: Memory allocation, pointers to members,
 references, switch statement.</p>
-      <p>-<a href="https://github.com/anttorre/CPP/CPP-02">CPP-02</a>: Ad-hoc polymorphism, operator overloading
+      <p>-<a href="[https://github.com/anttorre/CPP/CPP-02](https://github.com/anttorre/CPP/tree/main/CPP-02)">CPP-02</a>: Ad-hoc polymorphism, operator overloading
 and Orthodox Canonical class form.</p>
-      <p>-<a href="https://github.com/anttorre/CPP/CPP-03">CPP-03</a>: Inheritance. </p>
-      <p>-<a href="https://github.com/anttorre/CPP/CPP-04">CPP-04</a>: Subtype polymorphism, abstract classes, interfaces.</p>
-      <p>-<a href="https://github.com/anttorre/CPP/CPP-05">CPP-05</a>: Repetition and Exceptions.</p>
-      <p>-<a href="https://github.com/anttorre/CPP/CPP-06">CPP-06</a>: C++ casts. </p>
-      <p>-<a href="https://github.com/anttorre/CPP/CPP-07">CPP-07</a>: C++ templates. </p>
-      <p>-<a href="https://github.com/anttorre/CPP/CPP-08">CPP-08</a>: Templated containers, iterators, algorithms. </p>
-      <p>-<a href="https://github.com/anttorre/CPP/CPP-09">CPP-09</a>: STL Containers. </p>
+      <p>-<a href="[https://github.com/anttorre/CPP/CPP-03](https://github.com/anttorre/CPP/tree/main/CPP-03)">CPP-03</a>: Inheritance. </p>
+      <p>-<a href="[https://github.com/anttorre/CPP/CPP-04](https://github.com/anttorre/CPP/tree/main/CPP-04)">CPP-04</a>: Subtype polymorphism, abstract classes, interfaces.</p>
+      <p>-<a href="[https://github.com/anttorre/CPP/CPP-05](https://github.com/anttorre/CPP/tree/main/CPP-05)">CPP-05</a>: Repetition and Exceptions.</p>
+      <p>-<a href="[https://github.com/anttorre/CPP/CPP-06](https://github.com/anttorre/CPP/tree/main/CPP-06)">CPP-06</a>: C++ casts. </p>
+      <p>-<a href="[https://github.com/anttorre/CPP/CPP-07](https://github.com/anttorre/CPP/tree/main/CPP-07)">CPP-07</a>: C++ templates. </p>
+      <p>-<a href="[https://github.com/anttorre/CPP/CPP-08](https://github.com/anttorre/CPP/tree/main/CPP-08)">CPP-08</a>: Templated containers, iterators, algorithms. </p>
+      /*<p>-<a href="https://github.com/anttorre/CPP/CPP-09">CPP-09</a>: STL Containers. </p>*/
   </ul>
 </ul>
 
