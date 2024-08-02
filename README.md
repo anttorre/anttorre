@@ -70,7 +70,7 @@ and Orthodox Canonical class form.</p>
       <p>-CPP06: C++ casts. </p>
       <p>-CPP07: C++ templates. </p>
       <p>-CPP08: Templated containers, iterators, algorithms. </p>
-      <p>-CPP09: STL. </p>
+      <p>-CPP09: STL Containers. </p>
   </ul>
 </ul>
 
