@@ -57,20 +57,20 @@ little bash. You will learn a lot about processes and file descriptors.</p>
     <p><b>LANGUAGE: C++</b></p>
     <li><a href="https://github.com/anttorre/CPP">CPP MODULES</li></a>
     <p>This repository includes all the exercises from C++ modules 0-9.</p>
-      <p>-CPP00: Namespaces, classes, member functions, stdio streams,
+      <p>-<a href="https://github.com/anttorre/CPP/CPP-00">CPP-00</a>: Namespaces, classes, member functions, stdio streams,
 initialization lists, static, const, and some other basic
 stuff. </p>
-      <p>-CPP01: Memory allocation, pointers to members,
+      <p>-<a href="https://github.com/anttorre/CPP/CPP-01">CPP-01</a>: Memory allocation, pointers to members,
 references, switch statement.</p>
-      <p>-CPP02: Ad-hoc polymorphism, operator overloading
+      <p>-<a href="https://github.com/anttorre/CPP/CPP-02">CPP-02</a>: Ad-hoc polymorphism, operator overloading
 and Orthodox Canonical class form.</p>
-      <p>-CPP03: Inheritance. </p>
-      <p>-CPP04: Subtype polymorphism, abstract classes, interfaces.</p>
-      <p>-CPP05: Repetition and Exceptions.</p>
-      <p>-CPP06: C++ casts. </p>
-      <p>-CPP07: C++ templates. </p>
-      <p>-CPP08: Templated containers, iterators, algorithms. </p>
-      <p>-CPP09: STL Containers. </p>
+      <p>-<a href="https://github.com/anttorre/CPP/CPP-03">CPP-03</a>: Inheritance. </p>
+      <p>-<a href="https://github.com/anttorre/CPP/CPP-04">CPP-04</a>: Subtype polymorphism, abstract classes, interfaces.</p>
+      <p>-<a href="https://github.com/anttorre/CPP/CPP-05">CPP-05</a>: Repetition and Exceptions.</p>
+      <p>-<a href="https://github.com/anttorre/CPP/CPP-06">CPP-06</a>: C++ casts. </p>
+      <p>-<a href="https://github.com/anttorre/CPP/CPP-07">CPP-07</a>: C++ templates. </p>
+      <p>-<a href="https://github.com/anttorre/CPP/CPP-08">CPP-08</a>: Templated containers, iterators, algorithms. </p>
+      <p>-<a href="https://github.com/anttorre/CPP/CPP-09">CPP-09</a>: STL Containers. </p>
   </ul>
 </ul>
 
