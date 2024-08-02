@@ -1,20 +1,3 @@
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier&weight=100&size=37&pause=1000&color=000000&width=435&lines=++++++++++++++++++++Hello+Everyone+++%3A)" alt="Typing SVG" /></a><br/>
-<img src="https://64.media.tumblr.com/d0e0ba566837303040d948173b88abc6/af892589e3c0f22b-ec/s500x750/bc9028176fd0cbb851e9cdc4518a50a20ad2240d.gif"/>
-</p>
-
-## About me 💡
-
-<h4>Hello! I'm Nekane 🤝</h4>
-
-<p>Currently, I am immersed in the world of development in 42 Málaga, where I am mainly learning programming in C and I hope to be able to develop my logical-mathematical skills to be able to apply them in my life as a programmer.</p>
-
-## Education 📚
-<ul>
-  <li><b>Student at 42 Málaga</b></li>
-  <p>April 2023 - Present</p><br/>
-</ul>
-
 ## 42 Progress 🚀  
 <a href="https://github.com/nmontiel42/libft"><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus_max.webp"> </a>
 <a href="https://github.com/nmontiel42/Printf">
